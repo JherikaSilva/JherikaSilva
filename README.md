@@ -8,13 +8,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 
-<i class="devicon-git-plain colored"></i>
+<i class="devicon-git-plain colored"><
 
 <i class="devicon-github-original colored"></i>
 
 <i class="devicon-vscode-plain colored"></i>
           
-<i class="devicon-sqlite-plain colored"></i>
                     
           
 
