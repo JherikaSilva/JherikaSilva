@@ -1,20 +1,28 @@
-## Ola eu sou Jherika Silva 👋
+# Ola eu sou Jherika Silva 💻👋
 
-- 💻 WEB DEVELOPER ...
-- 🌱 
+**DESENVOLVEDORA BACKEND**
+-
 - 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JherikaSilva&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JherikaSilva&layout=compact)
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-
-<i class="devicon-git-plain colored"><
-
-<i class="devicon-github-original colored"></i>
-
-<i class="devicon-vscode-plain colored"></i>
+###🤖 LINGUAGENS E TECNOLOGIAS
+<img 
+          aligng="left"
+          alt="GIT"
+          title="GIT"
+          width="30px"
+          style="padding-right:10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
-                    
+<img 
+          aligng="left"
+          alt="Python"
+          title="Python"
+          width="30px"
+          style="padding-right:10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
           
 
 
