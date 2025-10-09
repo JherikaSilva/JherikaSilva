@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JherikaSilva&layout=compact)
 ---
 
-**🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
 
 <img 
@@ -50,7 +50,7 @@
           
                     
 ---
-**Redes Sociais
+Redes Sociais
 
 <a href="mailto:pereirajherika@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25" height="25"/>
