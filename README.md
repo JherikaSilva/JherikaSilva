@@ -8,6 +8,8 @@
 ---
 
 ###🤖 LINGUAGENS E TECNOLOGIAS
+
+
 <img 
           aligng="left"
           alt="GIT"
